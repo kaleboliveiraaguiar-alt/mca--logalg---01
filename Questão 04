@@ -1,0 +1,7 @@
+ cadeia nomePai  
+    cadeia nomeMae  
+    nomeMae = "Kezia Cristina"
+    nomePai = "Jeferson Ronaldo"
+ 
+    escreva ("Olá,\n", nomeMae,"!\n")
+    escreva ("Olá,\n", nomePai,"!\n")
