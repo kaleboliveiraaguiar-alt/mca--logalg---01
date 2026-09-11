@@ -1,6 +1,2 @@
-  funcao inicio() {   
-    
-    cadeia curso
-    curso = "Ciências da Computação"
- 
+ funcao inicio() {
     escreva ("Una Unidade Aimores.\n")
