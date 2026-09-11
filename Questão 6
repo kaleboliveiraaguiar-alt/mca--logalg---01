@@ -3,3 +3,4 @@ cadeia curso
 cadeia semestre
 curso = "Ciências da Computação"
 semestre = "1° Semestre"
+escreva ("Cursando", curso, "no", semestre")
