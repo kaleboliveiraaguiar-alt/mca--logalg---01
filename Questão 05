@@ -1,4 +1,5 @@
- cadeia nomePai  
+ funcao inicio() {
+cadeia nomePai  
     cadeia nomeMae  
     nomeMae = "Kezia Cristina"
     nomePai = "Jeferson Ronaldo"
