@@ -1,3 +1,4 @@
+ funcao inicio() {
 cadeia curso 
 cadeia semestre
 curso = "Ciências da Computação"
